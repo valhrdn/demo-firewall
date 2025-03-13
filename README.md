@@ -77,10 +77,10 @@ Mettre en place une infrastructure virtualisée pour héberger un **service web 
   Continuité du Vagrantfile.
 
 - **Journée du 12/03/2025 – 08h30 à 16h00**  
-  *(À compléter)*
+  Sécurisation du serveur nginx.
 
 - **Séance du 13/03/2025 – 13h00 à 16h00**  
-  *(À compléter)*
+  Diaporama, schéma.
 
 - **Séance du 14/03/2025 – 08h30 à 11h30**  
   *(À compléter)*
