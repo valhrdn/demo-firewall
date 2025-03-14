@@ -85,7 +85,7 @@ Mettre en place une infrastructure virtualisée pour héberger un **service web 
 - **Séance du 14/03/2025 – 08h30 à 11h30**  
   *(À compléter)*
 
-- **Soutenance orale – 14/03/2025 – 13h00 à 16h00** 🎤
+- **Soutenance orale – 14/03/2025 – 13h00 à 16h00**
 
 ---
 
